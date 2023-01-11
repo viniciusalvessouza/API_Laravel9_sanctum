@@ -44,7 +44,7 @@ No terminal, no diretorio do arquivo, digite o seguinte comando:
 
 A partir dai ele executara um servidor local com o Laravel funcionando
 
-1.
+
 # Parte 1
 
 Existe uma checklist, e nessa parte estamos seguindo a checklist que está disponível em:
@@ -59,7 +59,7 @@ Vamos percorrer o passo a passo da figura 1
 
 OBS: o que eu já fiz mas não expliquei na playlist eu vou explciar depois de ter terminado tudo e arrumado o texto
 
-  1.
+  
 ## Cheklist de ambiente
 
 - Instalar php (já foi)
@@ -68,7 +68,7 @@ OBS: o que eu já fiz mas não expliquei na playlist eu vou explciar depois de t
 - Instalar Dbvear (acho q vi esse em outro curso, mas não sei )
 - Instalar **Isomnia** (esse eu vi em outro curso)
 
-  1.
+  
 ## Cheklist de preparação do Projeto
 
 - Criar o projeto
@@ -226,7 +226,7 @@ Vou criar uma nova rota e controller para pesquisar por nome o produto chamada *
 
 Nao vou me estender demais, mas funcionou de forma direta, com o where()→get()
 
-1.
+
 # Parte 2
 
 Agora vamos as autenticações, usando o pacote **Laravel/Sanctum** , que já vem com o Laravel 9.
